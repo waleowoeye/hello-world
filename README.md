@@ -1,4 +1,4 @@
 # hello-world
 Playing with GitHub
 ==================
-Geeking out
+Geeking and partying out!
